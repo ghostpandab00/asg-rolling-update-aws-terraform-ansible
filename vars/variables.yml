@@ -1,0 +1,11 @@
+region: "ap-south-1"
+
+project: "Shopping"
+packages:
+  - php
+  - git
+  - httpd
+
+repo: https://github.com/vyshnavlal/aws-elb-site-1
+
+project_dir: /home/ec2-user/aws-github-terraform-ansible/
